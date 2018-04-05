@@ -1,4 +1,4 @@
-✔Assign If
+# ✔Assign If
 
 > call `Object.assign` if the passed expression evaluates to true.
 
